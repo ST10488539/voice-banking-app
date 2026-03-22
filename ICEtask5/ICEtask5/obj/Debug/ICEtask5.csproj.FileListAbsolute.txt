@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\ICEtask5\ICEtask5\bin\Debug\ICEtask5.exe.config
+C:\Users\Student\source\repos\ICEtask5\ICEtask5\bin\Debug\ICEtask5.exe
+C:\Users\Student\source\repos\ICEtask5\ICEtask5\bin\Debug\ICEtask5.pdb
+C:\Users\Student\source\repos\ICEtask5\ICEtask5\obj\Debug\ICEtask5.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ICEtask5\ICEtask5\obj\Debug\ICEtask5.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ICEtask5\ICEtask5\obj\Debug\ICEtask5.exe
+C:\Users\Student\source\repos\ICEtask5\ICEtask5\obj\Debug\ICEtask5.pdb
+C:\Users\Student\source\repos\ICEtask5\ICEtask5\obj\Debug\ICEtask5.exe.config
